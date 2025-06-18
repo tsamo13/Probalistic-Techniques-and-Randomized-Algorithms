@@ -10,7 +10,7 @@ The project explores fundamental concepts in probabilistic techniques and random
 
 
 ## Contents
-The homework covers a range of topics, including:
+The report covers the following topics:
 
 ### Graph Theory:
 
